@@ -1,0 +1,12 @@
+{
+  "name": "primerproyectonode",
+  "version": "1.0.0",
+  "description": "primer proyecto de js con node en openbootamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
